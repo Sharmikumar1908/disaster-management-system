@@ -1,0 +1,36 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    background-color: lightblue;
+}
+
+h1 {
+    color: darkblue;
+}
+
+.box {
+    background-color: white;
+    width: 300px;
+    margin: 50px auto;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+input {
+    width: 90%;
+    padding: 10px;
+    margin: 8px;
+}
+
+button {
+    padding: 10px 30px;
+    background-color: darkblue;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#result {
+    color: green;
+    font-weight: bold;
+}
